@@ -23,7 +23,7 @@ product_catalog = [ { :name => "Helicopter Toy",
                       :category_name => 'Toys',
                       :price => 38,
                       :image_url => 'http://ecx.images-amazon.com/images/I/81%2BriieG%2BQL._SL1500_.jpg',
-                      :description => "The world’s No.1 brain-teasing puzzler is still going strong with billions of puzzling combinations, but only one solution -- and it’s harder than it looks! This classic and super-addictive game puts your skills to the test to see if you can make each of the sides into a solid color. Scramble the colored squares on this 3-inch by 3-inch puzzle cube. Then twist, turn, and rotate to match up the colors again on all nine sides! Can you master the mysteries of the Rubik's Cube?",
+                      :description => "The world's No.1 brain-teasing puzzler is still going strong with billions of puzzling combinations, but only one solution -- and it's harder than it looks! This classic and super-addictive game puts your skills to the test to see if you can make each of the sides into a solid color. Scramble the colored squares on this 3-inch by 3-inch puzzle cube. Then twist, turn, and rotate to match up the colors again on all nine sides! Can you master the mysteries of the Rubik's Cube?",
                     },
                     { :name => "Harry Potter",
                       :category_name => 'Other',
@@ -47,7 +47,7 @@ product_catalog = [ { :name => "Helicopter Toy",
                       :category_name => 'Other',
                       :price => 8,
                       :image_url => "http://ecx.images-amazon.com/images/I/61jhb2P56cL._SL1500_.jpg",
-                      :description => 'Whet your appetite with the Morning Mug, a playful porcelain coffee cup that actually perks up as you do. Simply pour in hot coffee or tea and watch the face go from fast asleep to up-and-at-aTMem. Part of the The Cottage IndustryaTMs thermochromic collection, this clever cup mimics the uplifting effect of the beverage within.'
+                      :description => 'Whet your appetite with the Morning Mug, a playful porcelain coffee cup that actually perks up as you do. Simply pour in hot coffee or tea and watch the face go from fast asleep to up-and-at-em. Part of the The Cottage Industry\'s thermochromic collection, this clever cup mimics the uplifting effect of the beverage within.'
                     }
                   ]
 
